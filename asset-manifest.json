@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NW-waiting/static/css/main.ab6201dd.css",
+    "main.js": "/NW-waiting/static/js/main.0d7e5f30.js",
+    "index.html": "/NW-waiting/index.html",
+    "main.ab6201dd.css.map": "/NW-waiting/static/css/main.ab6201dd.css.map",
+    "main.0d7e5f30.js.map": "/NW-waiting/static/js/main.0d7e5f30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab6201dd.css",
+    "static/js/main.0d7e5f30.js"
+  ]
+}
